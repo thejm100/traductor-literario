@@ -1,0 +1,11 @@
+# Clave API privada (NUNCA subir a GitHub)
+clave_api.txt
+*.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
